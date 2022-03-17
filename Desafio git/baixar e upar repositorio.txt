@@ -1,0 +1,8 @@
+Baixar repositorio
+
+github>repositorio>code>ssh>copia
+git>git clone url copiada
+
+Upar Repositorio
+
+git status>git add . > git commit -m "comentario"> git push origin main
